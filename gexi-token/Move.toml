@@ -1,0 +1,7 @@
+[package]
+name = "gexi_token"
+version = "0.0.1"
+edition = "2024.beta"
+
+[addresses]
+gexi_token = "0x0"
