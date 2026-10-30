@@ -1,0 +1,7 @@
+[package]
+name = "gexi_economy"
+version = "0.0.1"
+edition = "2024.beta"
+
+[addresses]
+gexi_economy = "0x0"
